@@ -1,0 +1,10 @@
+PresentationLayer/Login.class
+PresentationLayer/FrontController.class
+DBAccess/Connector.class
+FunctionLayer/LogicFacade.class
+PresentationLayer/Register.class
+FunctionLayer/LoginException.class
+PresentationLayer/UnknownCommand.class
+DBAccess/UserMapper.class
+PresentationLayer/Command.class
+FunctionLayer/User.class
